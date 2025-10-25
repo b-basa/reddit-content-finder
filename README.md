@@ -1,0 +1,1 @@
+https://praw.readthedocs.io/en/stable/code_overview/models/submission.html
